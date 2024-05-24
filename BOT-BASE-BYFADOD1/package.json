@@ -1,12 +1,12 @@
 {
   "name": "NOME DO SEU BOT AQUI",
-  "version": "1.0.0", //AQUI E A VERSÃO
-  "description": "um bot para o studio", //DESCRIÇÃO
+  "version": "1.0.0", // AQUI E A VERSÃO
+  "description": "um bot para o studio", // DESCRIÇÃO
   "main": "index.js", //ARQUIVO PRINCIPAL
-  "scripts": {            //COMANDO TESTE
+  "scripts": {            // COMANDO TESTE
     "test": "!echo"
   },
-  "author": "FADOD", //TODOS OS DIREITOS AUTORAIS RESERVADOS A MIM FADOD, LICENSIADO PELA LICENSA ABAIXO.
+  "author": "FADOD", // TODOS OS DIREITOS AUTORAIS RESERVADOS A MIM FADOD, LICENSIADO PELA LICENSA ABAIXO.
   "license": "ISC",
   "dependencies": {
     "discord.js": "^14.15.2"
