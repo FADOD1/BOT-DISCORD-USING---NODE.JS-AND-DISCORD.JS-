@@ -1,15 +1,14 @@
 {
-  "name": "vision_bot",
-  "version": "1.0.0",
-  "description": "um bot para o studio",
-  "main": "index.js",
-  "scripts": {
+  "name": "NOME DO SEU BOT AQUI",
+  "version": "1.0.0", //AQUI E A VERSÃO
+  "description": "um bot para o studio", //DESCRIÇÃO
+  "main": "index.js", //ARQUIVO PRINCIPAL
+  "scripts": {            //COMANDO TESTE
     "test": "!echo"
   },
-  "author": "FADOD",
+  "author": "FADOD", //TODOS OS DIREITOS AUTORAIS RESERVADOS A MIM FADOD, LICENSIADO PELA LICENSA ABAIXO.
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.15.2",
-    "openai": "^4.47.1"
+    "discord.js": "^14.15.2"
   }
 }
